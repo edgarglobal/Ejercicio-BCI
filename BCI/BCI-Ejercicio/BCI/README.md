@@ -2,7 +2,7 @@
 
 Proyecto Personal Banco BCI
 
-Api parar registrar un usuario y poder loguearse
+Desarrollo de API para poder crear un usuario y loguearse con el mismo.
 
 ## Tech Stack
 
@@ -12,20 +12,20 @@ Java, Spring, H2 database, built using Gradle
 
 ## Installation
 
-clonar el proyecto y hacer las peticiones utilizando postman o alguna aplicacion similar
+Para poder utilizarlo se debe clonar el proyecto y realizar las peticiones al mismo mediante Postman.
 
 
     
 ## Examples
 
 
-para hacer este proceso mas facil puede importar desde el postman el archivo bci.postman_collection.json el cual se encuentra en el root de este mismo proyecto.
+Recomiendo para realizar este proceso importar desde el postman el archivo bci.postman_collection.json el cual se encuentra en el root de este mismo proyecto.
 
 
 ##
 ##
 
-la manera manual de hacerlo es la siguiente (copiar y pegar los request en postman,detallados abajo) 
+Tambien puede realizarno de forma manual utilizando este ejemplo (copiar y pegar los request en postman,detallados abajo) 
 ```json
 
 localhost:8080/api/v1/sign_up
@@ -59,4 +59,4 @@ This project is used by the following companies:
 - BCI
 
 
-## 🚀 GIULIANO MONTI
+## Edgardo Javier Patiño
